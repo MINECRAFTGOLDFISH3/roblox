@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "express": "^4.18.2",
+        "http-proxy-middleware": "^2.0.6",
+        "http-proxy": "^1.18.1"
+    },
+    "name": "roblox",
+    "description": "Roblox Game",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MINECRAFTGOLDFISH3/roblox.git"
+    },
+    "keywords": [],
+    "author": "MINECRAFTGOLDFISH3",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/MINECRAFTGOLDFISH3/roblox/issues"
+    },
+    "homepage": "https://github.com/MINECRAFTGOLDFISH3/roblox"
+}
